@@ -1,0 +1,19 @@
+td{
+    padding-left: 20px;
+}
+img{
+    padding: 20px 20px 0 0;
+ 
+}
+.background{
+   background-color: rgb(213, 221, 219);
+}
+.background2{
+    background-color:rgb(213, 221, 219) ;
+}
+#toggle-skills{
+    background-color: orange;
+}
+.org{
+    color: rgb(231, 113, 17);
+}
